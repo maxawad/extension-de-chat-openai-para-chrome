@@ -1,33 +1,33 @@
-# OpenAI ChatGPT Chrome Extension
+# Extensión de Chrome para OpenAI ChatGPT
 
-This extension uses the magic of OpenAI's chat and image models to ensure a seamless ChatGPT-Like experience - all without ever having to leave your favorite website. Start a A.I. powered conversation or generate stunning images with just a few clicks.
+Esta extensión utiliza la magia de los modelos de chat e imagen de OpenAI para garantizar una experiencia fluida similar a ChatGPT, todo sin tener que abandonar tu sitio web favorito. Inicia una conversación impulsada por A.I. o genera imágenes impresionantes con solo unos pocos clics.
 
+## 📸 Capturas de pantalla
 
-## 📸 Screenshots
 <div style="display: flex; gap: 20px; justify-content: start; align-items: start;">
-    <img src='assets/preview-1.png' width='400' alt='Chat Completion Preview' />
-    <img src='assets/preview-2.png' width='400' alt='Image Generation Preview' />
+    <img src='assets/preview-1.png' width='400' alt='Vista previa de la finalización del chat' />
+    <img src='assets/preview-2.png' width='400' alt='Vista previa de la generación de imágenes' />
 </div>
 
-## ✨ Features
+## ✨ Características
 
- - 💨 Easy access to OpenAI's chat and images models without leaving your favorite website.
- - 💬 Chat with the latest GPT models.
- - 🌄 Generate stunning images with DALL-E 3.
- - 🎛️ Seamlessly switch between different models.
- - 💾 Copy or download the generated content with just a click.
- - 🛟 API-Key is safely stored in the browser's local storage and never leaves your device.
+- 💨 Acceso fácil a los modelos de chat e imágenes de OpenAI sin salir de tu sitio web favorito.
+- 💬 Chatea con los últimos modelos GPT.
+- 🌄 Genera imágenes impresionantes con DALL-E 3.
+- 🎛️ Cambia sin problemas entre diferentes modelos.
+- 💾 Copia o descarga el contenido generado con solo un clic.
+- 🛟 La clave de API se almacena de manera segura en el almacenamiento local del navegador y nunca abandona tu dispositivo.
 
-## 🚀 Getting started
-    
-1. Clone the extension or download the latest release.
-2. Open the Chrome browser and navigate to [chrome://extensions](chrome://extensions).
-3. Enable the developer mode by clicking the toggle switch in the top right corner of the page.
-4. Click on the "Load unpacked" button and select the cloned extension folder.
-5. The options page automatically opens where you need to enter your OpenAI API-Key.
-    
-The extension should now be installed and ready to use. Open the extension by clicking on the chrome-themed OpenAI icon in the top right corner of your browser.
+## 🚀 Comenzando
 
-## 🚨 Note
+1. Clona la extensión o descarga la última versión.
+2. Abre el navegador Chrome y navega a [chrome://extensions](chrome://extensions).
+3. Habilita el modo de desarrollador haciendo clic en el interruptor de palanca en la esquina superior derecha de la página.
+4. Haz clic en el botón "Cargar desempaquetado" y selecciona la carpeta de extensión clonada.
+5. La página de opciones se abre automáticamente donde necesitas ingresar tu clave API de OpenAI.
 
-For the extension to work, you need to have an OpenAI API-Key. You can get one by signing up on the [OpenAI website](https://openai.com/). Once you have an API-Key, you will need to enter it in the options page of the extension.
+La extensión ahora debería estar instalada y lista para usar. Abre la extensión haciendo clic en el icono de OpenAI con temática de chrome en la esquina superior derecha de tu navegador.
+
+## 🚨 Nota
+
+Para que la extensión funcione, necesitas tener una clave API de OpenAI. Puedes obtener una registrándote en el [sitio web de OpenAI](https://openai.com/). Una vez que tengas una clave API, deberás ingresarla en la página de opciones de la extensión.
